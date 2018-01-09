@@ -1,0 +1,60 @@
+<eco_id = 100>
+	<series id>
+	cencpptot </series id>
+	 <src> CEN </src>
+	<description> Total Construction </description>
+<eco_id />
+
+
+<eco_id = 101>
+	<series id>
+	cencpptot </series id>
+	 <src> CEN </src>
+	<description> Total Public Construction </description>
+<eco_id />
+
+<eco_id = 102>
+	<series id>
+	cencpptot </series id>
+	 <src> CEN </src>
+	<description> Total Private Construction - Residential </description>
+<eco_id />
+
+<eco_id = 103>
+	<series id>
+	cencpptot </series id>
+	 <src> CEN </src>
+	<description> Total Privat Construction - Nonresidential </description>
+<eco_id />
+
+<eco_id = 104>
+	<series id>
+	cencpptot </series id>
+	 <src> CEN </src>
+	<description> Houses for sale: Months supply at current sale rate</description>
+<eco_id />
+
+
+<eco_id = 100>
+	<series id>
+	cencpptot </series id>
+	 <src> CEN </src>
+	<description> Total Construction </description>
+<eco_id />
+
+
+<eco_id = 100>
+	<series id>
+	cencpptot </series id>
+	 <src> CEN </src>
+	<description> Total Construction </description>
+<eco_id />
+
+
+<eco_id = 100>
+	<series id>
+	cencpptot </series id>
+	 <src> CEN </src>
+	<description> Total Construction </description>
+<eco_id />
+

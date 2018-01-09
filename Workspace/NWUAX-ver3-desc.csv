@@ -1,0 +1,14 @@
+Series ID,Description,Units,Frequency,From,To
+cencppprivnonres,Total Private Construction - Nonresidential,Units,Monthly ,1993-01,2013-12
+cencppprivres,Total Private Construction - Residential,Units,Monthly ,1993-01,2013-12
+cencpppub,Total Public Construction,Units,Monthly ,1993-01,2013-12
+cencpptot,Total construction,Units,Monthly ,1993-01,2013-12
+cenhfs-supplymsa,Houses for Sale: Months Supply at Current Sales Rate,Thousands,Monthly ,1963-01,2010-11
+cenhs-usmsa,Houses Sold by Region: US ,Thousands,Monthly ,1963-01,2010-11
+cennewhsavgm,Average Sales Prices of New Homes Sold in United States,Dollars,Monthly ,1975-01,2010-11
+cennewhsmedm,Median Sales Prices of New Homes Sold in United States,Dollars,Monthly ,1963-01,2010-11
+NAV - NWUAX,Daily Net Asset value of fund NWUAX,Dollars,Daily,2007-12,2016-02
+,,,,,
+,,,,,
+,,,,,
+,,,,,

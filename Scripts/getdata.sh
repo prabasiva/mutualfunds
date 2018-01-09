@@ -1,0 +1,10 @@
+ curl -o NWUAX.csv "http://ichart.finance.yahoo.com/table.csv?s=NWUAX&a=00&b=1&c=2000&d=03&e=1&f=2013&g=m&ignore=.csv"
+curl -o AA.csv "http://ichart.finance.yahoo.com/table.csv?s=AA&a=00&b=1&c=2000&d=03&e=1&f=2013&g=m&ignore=.csv"
+curl -o AAN.csv "http://ichart.finance.yahoo.com/table.csv?s=AAN&a=00&b=1&c=2000&d=03&e=1&f=2013&g=m&ignore=.csv"
+curl -o AAP.csv "http://ichart.finance.yahoo.com/table.csv?s=AAP&a=00&b=1&c=2000&d=03&e=1&f=2013&g=m&ignore=.csv"
+curl -o AAT.csv "http://ichart.finance.yahoo.com/table.csv?s=AAT&a=00&b=1&c=2000&d=03&e=1&f=2013&g=m&ignore=.csv"
+curl -o AAV.csv "http://ichart.finance.yahoo.com/table.csv?s=AAV&a=00&b=1&c=2000&d=03&e=1&f=2013&g=m&ignore=.csv"
+curl -o AB.csv "http://ichart.finance.yahoo.com/table.csv?s=AB&a=00&b=1&c=2000&d=03&e=1&f=2013&g=m&ignore=.csv"
+curl -o ABB.csv "http://ichart.finance.yahoo.com/table.csv?s=ABB&a=00&b=1&c=2000&d=03&e=1&f=2013&g=m&ignore=.csv"
+curl -o ABBV.csv "http://ichart.finance.yahoo.com/table.csv?s=ABBV&a=00&b=1&c=2000&d=03&e=1&f=2013&g=m&ignore=.csv"
+mv *.csv ../Data
